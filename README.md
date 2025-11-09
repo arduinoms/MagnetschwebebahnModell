@@ -1,2 +1,2 @@
 # MagnetschwebebahnModell
-Programmcode, Schaltpläne und 3D-CAD Dateien zu zwei Modellen einer Magnetschwebebahn.
+Quellcode und Kostenaufstellung zum Linearmotormodell einer Magnetschwebebahn im Rahmen der W-Seminararbeit.
